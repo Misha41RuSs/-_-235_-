@@ -1,0 +1,6 @@
+﻿  Source.c
+C:\Users\Михаил\source\repos\Kursovoy_project\Kursovoy_project\Source.c(67,50): warning C4101: door_area: неиспользованная локальная переменная
+C:\Users\Михаил\source\repos\Kursovoy_project\Kursovoy_project\Source.c(67,37): warning C4101: window_area: неиспользованная локальная переменная
+C:\Users\Михаил\source\repos\Kursovoy_project\Kursovoy_project\Source.c(458,29): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Михаил\source\repos\Kursovoy_project\Kursovoy_project\Source.c(459,29): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  Kursovoy_project.vcxproj -> C:\Users\Михаил\source\repos\Kursovoy_project\x64\Debug\Kursovoy_project.exe
